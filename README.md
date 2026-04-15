@@ -93,6 +93,10 @@ Liquibase автоматически создаст таблицы
 
 `http://localhost:8080`
 
+### 4. Swagger будет доступен по адресу
+
+`http://localhost:8080/swagger-ui/index.html`
+
 # API
 
 ### Создание кошелька
