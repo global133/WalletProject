@@ -83,7 +83,7 @@ Liquibase автоматически создаст таблицы
 
 ### 1. Клонирование репозитория
 
-`git clone`
+`git clone https://github.com/global133/WalletProject.git`
 
 ### 2. Запуск контейнеров 
 
